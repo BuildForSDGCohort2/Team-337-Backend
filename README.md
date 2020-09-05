@@ -28,6 +28,13 @@ Retrieve the list of books
 }
 ```
 
+> **Screenshoot** sample screenshoot from get books query.
+
+<div style="text-align:center">
+  <img src="https://richesterconsulting.com/img/get-books.png" alt="Query Books Screenshot">
+</div>
+
+
 ### Query Book By Id
 Get a book by the ID
 
