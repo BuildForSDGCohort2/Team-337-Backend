@@ -9,7 +9,7 @@ class BookType extends GraphQLType
 {
     protected $attributes = [
         'name' => 'Book',
-        'description' => 'Details ',
+        'description' => 'Collection of books',
         'model' => Book::class
     ];
 

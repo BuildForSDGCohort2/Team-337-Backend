@@ -6,6 +6,7 @@ use example\Mutation\ExampleMutation;
 use example\Query\ExampleQuery;
 use example\Type\ExampleRelationType;
 use example\Type\ExampleType;
+use App\GraphQL\Type\BookType;
 
 return [
 
@@ -107,6 +108,12 @@ return [
             ],
             'mutation' => [
                 // 'example_mutation'  => ExampleMutation::class,
+                    // Create a book
+                'createBook' => App\GraphQL\Mutations\CreateBookMutation::class,
+                // update book
+                'updateBook' => App\GraphQL\Mutations\UpdateBookMutation::class,
+                // delete a book
+                'deleteBook' => App\GraphQL\Mutations\DeleteBookMutation::class,
             ],
             'middleware' => [],
             'method' => ['get', 'post'],
