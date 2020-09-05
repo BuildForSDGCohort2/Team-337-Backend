@@ -52,6 +52,13 @@ Get a book by the ID
 }
 ```
 
+> **Screenshoot** sample screenshoot from get book by ID query.
+
+<div style="text-align:center">
+  <img src="https://i.imgur.com/pF9rMRk.png" alt="Get Book By ID Screenshot">
+</div>
+
+
 ### Create A Book
 Add a new book
 
@@ -78,6 +85,12 @@ mutation updateBook {
   }
 }
 ```
+> **Screenshoot** sample screenshoot from create book mutation.
+
+<div style="text-align:center">
+  <img src="https://i.imgur.com/tQRmBEM.png" alt="Create Book Screenshot">
+</div>
+
 
 ### Update a Book
 Update details of a book
@@ -105,3 +118,10 @@ mutation updateBook {
   }
 }
 ```
+
+> **Screenshoot** sample screenshoot from update book by ID query.
+
+<div style="text-align:center">
+  <img src="https://i.imgur.com/Q78XYBe.png" alt="Update Book By ID Screenshot">
+</div>
+
