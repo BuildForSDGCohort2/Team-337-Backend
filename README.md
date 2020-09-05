@@ -31,7 +31,7 @@ Retrieve the list of books
 > **Screenshoot** sample screenshoot from get books query.
 
 <div style="text-align:center">
-  <img src="https://richesterconsulting.com/img/get-books.png" alt="Query Books Screenshot">
+  <img src="https://i.imgur.com/Qn9somb.png" alt="Query Books Screenshot">
 </div>
 
 
